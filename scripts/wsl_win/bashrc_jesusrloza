@@ -1,0 +1,19 @@
+
+# Some useful aliases - jesusrloza
+    alias py='python3'
+    alias nf='neofetch'
+    alias vi='nvim'
+    alias nv='nvim'
+    alias ra='ranger'
+    alias ll='ls -lh'
+    alias cl='clear'
+    alias q='exit'
+    alias mkd='mkdir'
+    alias webcam='mpv /dev/video0'
+    alias notebook='jupyter notebook'
+    alias jn='jupyter notebook'
+# End of personal aliases - jesusrloza
+
+# Set preferred EDITOR
+export EDITOR=/usr/bin/nvim
+
