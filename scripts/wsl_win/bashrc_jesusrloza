@@ -12,6 +12,7 @@
     alias webcam='mpv /dev/video0'
     alias notebook='jupyter notebook'
     alias jn='jupyter notebook'
+    alias lab='jupyter lab'
 # End of personal aliases - jesusrloza
 
 # Set preferred EDITOR
